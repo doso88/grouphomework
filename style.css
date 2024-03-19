@@ -2,13 +2,13 @@
     margin: 0;
     padding: 0;
 }
-header main{
-    display: inline-block;
-}
 .left{
     width: 400px;
-    height: 900px;
+    height: 810px;
     background-color: blue;
+}
+header, main{
+    float: left;
 }
 h3{
     color: white;
@@ -16,7 +16,8 @@ h3{
 .title{
     width: 262px;
     height: 38px;
-    margin-left: 44px;
+    margin-left: 130px;
+    padding-top: 70px;
 }
 .firstbutt{
     width: 300px;
@@ -35,6 +36,6 @@ h3{
     color:white;
     background-color: black;
 }
-.right{
-    float: right;
+.toptext{
+    text-align: right;
 }
