@@ -2,7 +2,10 @@
     margin: 0;
     padding: 0;
 }
-aside{
+header main{
+    display: inline-block;
+}
+.left{
     width: 400px;
     height: 900px;
     background-color: blue;
@@ -32,4 +35,6 @@ h3{
     color:white;
     background-color: black;
 }
-
+.right{
+    float: right;
+}
