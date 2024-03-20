@@ -2,15 +2,9 @@
     margin: 0;
     padding: 0;
 }
-<<<<<<< Updated upstream
 a{
     text-decoration: none;
     color: initial;
-=======
-.chart{
-    width: 1000px;
-    height: 700px;
->>>>>>> Stashed changes
 }
 .left{
     width: 400px;
@@ -26,8 +20,11 @@ h3{
 .title{
     width: 262px;
     height: 38px;
-    margin-left: 130px;
+    margin-left: 60px;
     padding-top: 70px;
+}
+.title h3{
+    display:inline-block;
 }
 .firstbutt{
     width: 300px;
@@ -36,7 +33,10 @@ h3{
     margin-left: 44px;
     color:white;
     background-color: black;
-
+}
+.signtodash{
+    text-decoration: none;
+    color: white;
 }
 .secondbutt{
     width: 300px;
@@ -49,7 +49,13 @@ h3{
 .toptext{
     text-align: right;
 }
-<<<<<<< Updated upstream
+.bottomtext{
+    margin-left: 20px;
+}
+.chart{
+    width: 1000px;
+    height: 650px;
+}
 .aside{
     width: 400px;
     height: 900px;
@@ -57,7 +63,7 @@ h3{
 }
 .logo{
     width: 31.67px;
-    height: 20.55pxpx;
+    height: 20.55px;
     margin-top: 64px;
     margin-left: 44px;
 }
@@ -122,18 +128,9 @@ h3{
     color: white;
     display: inline-block;
 }
-=======
->>>>>>> Stashed changes
-=======
 .vector{
     width: 31.67px;
     height: 20.55px;
     padding-left: 44px;
-    
-<<<<<<< Updated upstream
-}
-
-=======
->>>>>>> 9f73056692b3c84e1b64419a781e671bc911ff9c
 }
 >>>>>>> Stashed changes
