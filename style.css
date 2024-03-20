@@ -2,9 +2,15 @@
     margin: 0;
     padding: 0;
 }
+<<<<<<< Updated upstream
 a{
     text-decoration: none;
     color: initial;
+=======
+.chart{
+    width: 1000px;
+    height: 700px;
+>>>>>>> Stashed changes
 }
 .left{
     width: 400px;
@@ -43,6 +49,7 @@ h3{
 .toptext{
     text-align: right;
 }
+<<<<<<< Updated upstream
 .aside{
     width: 400px;
     height: 900px;
@@ -116,10 +123,17 @@ h3{
     display: inline-block;
 }
 =======
+>>>>>>> Stashed changes
+=======
 .vector{
     width: 31.67px;
     height: 20.55px;
     padding-left: 44px;
     
+<<<<<<< Updated upstream
 }
 
+=======
+>>>>>>> 9f73056692b3c84e1b64419a781e671bc911ff9c
+}
+>>>>>>> Stashed changes
