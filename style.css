@@ -2,6 +2,10 @@
     margin: 0;
     padding: 0;
 }
+a{
+    text-decoration: none;
+    color: initial;
+}
 .left{
     width: 400px;
     height: 810px;
@@ -38,4 +42,76 @@ h3{
 }
 .toptext{
     text-align: right;
+}
+.aside{
+    width: 400px;
+    height: 900px;
+    background-color: #2F80ED;
+}
+.logo{
+    width: 31.67px;
+    height: 20.55pxpx;
+    margin-top: 64px;
+    margin-left: 44px;
+}
+.asidep1{
+    width: 208px;
+    height: 36px;
+    padding-left: 18px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    color: white;
+    display: inline-block;
+}
+.dashboard{
+    width: 18px;
+    height: 18px;
+    margin-left: 67px;
+    margin-top: 150px;
+}
+.asidep2{
+    display: inline-block;
+    margin-left: 18px;
+    margin-top: 150px;
+    width: 156px;
+    height: 16px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    color: white;
+}
+.settings{
+    width: 20px;
+    height: 20px;
+    margin-left: 65px;
+    margin-top: 45px;
+}
+.asidep3{
+    display: inline-block;
+    margin-left: 18px;
+    margin-top: 45px;
+    width: 156px;
+    height: 16px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    color: white;
+}
+.logout{
+    width: 16px;
+    height: 18px;
+    margin-left: 65px;
+    margin-top: 500px;
+}
+.asidep4{
+    width: 156px;
+    height: 16px;
+    margin-top: 500px;
+    margin-left: 18px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    color: white;
+    display: inline-block;
 }
