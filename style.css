@@ -9,7 +9,7 @@ a{
 .left{
     width: 400px;
     height: 810px;
-    background-color: blue;
+    background-color: #2F80ED;
 }
 header, main{
     float: left;
@@ -115,3 +115,11 @@ h3{
     color: white;
     display: inline-block;
 }
+=======
+.vector{
+    width: 31.67px;
+    height: 20.55px;
+    padding-left: 44px;
+    
+}
+
