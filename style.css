@@ -1,6 +1,8 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins";
 }
 a{
     text-decoration: none;
@@ -58,6 +60,7 @@ h3{
     width: 400px;
     height: 900px;
     background-color: #2F80ED;
+    float: left;
 }
 .logo{
     width: 31.67px;
@@ -66,7 +69,7 @@ h3{
     margin-left: 44px;
 }
 .asidep1{
-    width: 208px;
+    width: 250px;
     height: 36px;
     padding-left: 18px;
     font-size: 24px;
@@ -80,6 +83,7 @@ h3{
     height: 18px;
     margin-left: 67px;
     margin-top: 150px;
+    display: inline-block;
 }
 .asidep2{
     display: inline-block;
@@ -130,4 +134,79 @@ h3{
     width: 31.67px;
     height: 20.55px;
     padding-left: 44px;
+}
+.p1{
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 65px;
+    display: inline-block;
+    margin-left: 83px;
+    color: #515151
+    
+    
+}
+.p2{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    color: #515151;
+   margin-top: 60px;
+   margin-left: 83px;
+   display: inline-block;
+    
+}
+.child{
+    width: 243px;
+    height: 150px;
+    border-radius: 25px;
+    display: inline-block;
+    background-color: #333333;
+    margin:  10px;
+}
+.childp1{
+    color: aliceblue;
+    font-size: 36px;
+    line-height: 54px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 40px;
+}
+.childp2{
+    color: white;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+    text-align: center;
+}
+.div1{
+    width: 800px;
+    max-height: 200px;
+    margin-left: 480px;
+    margin-top: 20px;
+}
+.table1{
+    margin-left: 83px;
+    margin-top: 30px;
+}
+.div2p{ 
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    color: #515151;
+    margin-left: 83px;
+    display: inline-block;
+}
+.div3p{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    color: #515151;
+    margin-left: 83px;
+    display: inline-block;
+    margin-top: 20px;
+}
+.table2{
+    margin-left: 83px;
+    margin-top: 20px;
+    
 }
