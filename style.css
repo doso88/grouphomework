@@ -222,9 +222,9 @@ h3{
     left:280px;
   }
   .container {
-    display: flex;
-    justify-content: center;
-    margin-top:150px;
+    display: inline-block;
+    margin-top:130px;
+    margin-left: 150px;
   }
   
   .form-box {
@@ -275,15 +275,15 @@ h3{
   input.password::placeholder {
     color: #000000;
   }
-  button.save-button {
+  .savebutton {
     width: 150px;
     height: 75px;
     background-color: #333333;
     color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    margin-left: 276px;
-    margin-top: 50px;
+  }
+  .lastdiv{
+    margin-left: 680px;
+    margin-top: 150px;
+    position: static;
   }
   
