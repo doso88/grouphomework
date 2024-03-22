@@ -210,3 +210,80 @@ h3{
     margin-top: 20px;
     
 }
+.caption {
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    margin-right: 100px;
+    color: #515151;
+    position: relative;
+    top:60px;
+    left:280px;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    margin-top:150px;
+  }
+  
+  .form-box {
+    width: 400px;
+    height: 75px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-indent: 10px;
+    border-color: #828282;
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    border-radius: 0px;
+  }
+  
+  .form-box label {
+    margin: 0;
+  }
+  .form-box input[type="checkbox"] {
+    width: 40px;
+    height: 40px;
+    margin-right: 20px;
+  }
+  input.email {
+    margin-top: 25px;
+  }
+  input.password {
+    margin-top: 25px;
+  }
+  input.email,
+  input.password {
+    width: calc(100% - 1px);
+    height: 75px;
+    text-indent: 20px;
+    border-color: #828282;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    border-width: 1px;
+  }
+  input.email::placeholder,
+  input.password::placeholder {
+    color: #000000;
+  }
+  button.save-button {
+    width: 150px;
+    height: 75px;
+    background-color: #333333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 276px;
+    margin-top: 50px;
+  }
+  
